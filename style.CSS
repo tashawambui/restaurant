@@ -26,3 +26,48 @@ body {
     background-color: #ffe066;
     color: black
 }
+#div1 {
+    width: 350px;
+    background-color: rgb(252, 126, 1);
+    padding: 50px;
+    margin: 20px;
+    border: 2px solid black;
+    font-size: 25px;
+    float: left;
+    text-align: center;
+    height: 730px;
+}
+
+#div2 {
+    width: 350px;
+    background-color: rgb(162, 1, 44);
+    padding: 50px;
+    margin: 20px;
+    border: 2px solid black;
+    font-size: 25px;
+    float: left;
+    text-align: center;
+    height: 730px;
+}
+
+#div3 {
+    width: 350px;
+    background-color: rgb(240, 5, 5);
+    padding: 50px;
+    margin: 20px;
+    border: 2px solid black;
+    font-size: 25px;
+    float: left;
+    text-align: center;
+    height: 730px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
